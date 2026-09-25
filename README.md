@@ -50,8 +50,3 @@ training MSE : 20.319076538085938
 test MSE : 18.777429580688477
 r2 socre :  0.9343777285123931
 ```
-
-
-## 👨‍💻 Author
-
-**Aakash Jadhav** — B.E. Computer Engineering
